@@ -224,4 +224,5 @@ This is the end of the workshop itself, but if you're interested in learning mor
 # EXTRA: Cool Topic Areas To Explore In TinyML If You're Interested :)
 1) TensorFlow/TensorFlow Lite
 2) Applications/Projects with TinyML but on more powerful boards such as the ESP32, Raspberry Pi, Arduino Nano 33 BLE Sense
-3) Trying more complex ML projects (RBG identifier, Gesture Recognition, Sound Classifcation, etc.) 
+3) Trying more complex ML projects (RBG identifier, Gesture Recognition, Sound Classifcation, etc.)
+4) Learn more about the different kinds of ML (feedforward neural networks networks, convolutional neural networks, recurrent neural networks, etc.)
